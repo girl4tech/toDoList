@@ -9,18 +9,18 @@ This To-Do List is a simple web app that I've been using for myself over the pas
 
 **Tech used:** HTML, CSS, JavaScript
 
-To build the card game, I started off with an HTML container and within that HTML container, I added the cards. Next, I applied a few styles on the cards and modified properties such as width, height, color, etc. There were a couple of functions that also had to be established. For example, the random shuffle algorithm was a simple but fun aspect of this game. The algorithm involves a variable that loops through the length of an array and generates a random number to shuffle the cards. Another important function was to check if the cards matched. I did this by using the data-* attribute to verify if the value of an HTML element or card, was equal to the value of another card.
+The local storage aspect of this project was an initial challenge as I had not worked with this browser object before. In order to work with the Local Storage object, I modified its setItem() and getItem() methods, which ended up being surprisingly easier than anticipated.
 
 ## Optimizations
-If I had more time I would go back and add better styling to the cards or perhaps incorporate gamification techniques to encourage the user to continue playing the game. I would also like to allow the user to switch the theme of the game in real time. For example, the ability to switch from Spanish colors to images of famous soccer players. I'd also like to add a shuffle button so that the user has total control over the shuffle function instead of having it run automatically. 
+If I had more time I would go back and add better styling to the list to make it look more modern and less retro. I am also planning on making the list full-stack by using Express JS. 
 
 ## Lessons Learned:
-I gained some decent CSS practice by completing this exercise. 
+In completing this project learned a lot about built-in browser variables liked Local Storage. I also learned more about the client-server model, when reviewing concepts such as the fact that HTTP is stateless, which causes an application to reset the next time it is re-opened.
 
 ## Examples:
 Take a look at other examples that I have in my own portfolio:
 
-**Caesar Cipher Shift Encoder:** https://github.com/karina001/ceasarCipher
+**Spanish Colors Memory Game:** https://github.com/karina001/spanishColorsMemoryGame
 
 **WuTangClan Name Generator:** https://github.com/karina001/WuTangNameGenerator
 
