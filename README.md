@@ -1,5 +1,5 @@
-# Spanish Colors Memory Game
-This memory game was a timed, morning challenge. The idea was to build a 10 card memory game, that allows a user to select 2 cards and check if they match. If the cards match, they stay flipped. If not, they flip back over. The memory game is over when all cards are matched and flipped back.
+# Simple To-Do List
+This To-Do List is a simple web app that needed to be completed within a couple of days. The list is interactive and allows the user to add or remove list items. List items can also be marked as completed, and any items that are marked as completed can be removed collectively. 
 
 **Link to project:** http://live-demos.com/
 
