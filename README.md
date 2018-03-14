@@ -14,7 +14,7 @@ The local storage aspect of this project was an initial challenge as I had not w
 ## Optimizations
 If I had more time I would go back and add better styling to the list to make it look more modern and less retro. I am also planning on making the list full-stack by using Express JS. 
 
-----UPDATE: list is now full stack. please view server & json files :)----3/14----
+----UPDATE (3/14): list is now full stack. please view server & json files :)----
 
 ## Lessons Learned:
 In completing this project I learned a lot about built-in browser variables liked Local Storage. I also learned more about the client-server model, when reviewing concepts such as the fact that HTTP is stateless, which causes an application to reset the next time it is re-opened. As a developer, I needed to store the state of your interface somewhere. Although this is normally done on the server-side, I didn't want to force people to sign up to use the app. This is one of the main reasons I decided to leverage local storage.
