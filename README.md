@@ -30,3 +30,14 @@ Take a look at other examples that I have in my own portfolio:
 **WuTangClan Name Generator:** https://github.com/karina001/WuTangNameGenerator
 
 **Speech Recognition App:** https://github.com/karina001/speechRecognitionApp
+
+## Installation
+
+1. Clone repo
+2. run `npm install`
+
+## Usage
+
+1. run `npm run toDoList`
+2. Navigate to `localhost:3000`
+
