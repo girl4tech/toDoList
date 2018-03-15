@@ -38,6 +38,6 @@ Take a look at other examples that I have in my own portfolio:
 
 ## Usage
 
-1. run `npm run toDoList`
+1. run `node server.js`
 2. Navigate to `localhost:3000`
 
